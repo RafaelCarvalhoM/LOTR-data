@@ -1,0 +1,70 @@
+{
+  "capacidade_maxima_kg": 15.0,
+  "suprimentos": [
+    {
+      "nome": "Lembas (Pacote)",
+      "peso": 0.5,
+      "utilidade": 8
+    },
+    {
+      "nome": "Bolo de Mel de Beorn",
+      "peso": 0.8,
+      "utilidade": 7
+    },
+    {
+      "nome": "Capa Élfica de Lórien",
+      "peso": 1.2,
+      "utilidade": 15
+    },
+    {
+      "nome": "Frasco da Luz de Galadriel",
+      "peso": 0.3,
+      "utilidade": 25
+    },
+    {
+      "nome": "Espada Ferroada (Sting)",
+      "peso": 1.5,
+      "utilidade": 20
+    },
+    {
+      "nome": "Rações de Viagem (Caminhante)",
+      "peso": 2.0,
+      "utilidade": 10
+    },
+    {
+      "nome": "Corda Élfica (Roll)",
+      "peso": 0.7,
+      "utilidade": 12
+    },
+    {
+      "nome": "Galocha de Pêlo de Hobbit",
+      "peso": 0.4,
+      "utilidade": 2
+    },
+    {
+      "nome": "Machado de Gimli (Pequeno)",
+      "peso": 3.0,
+      "utilidade": 18
+    },
+    {
+      "nome": "Erva-de-fumo de Quatro-Quartos",
+      "peso": 0.2,
+      "utilidade": 5
+    },
+    {
+      "nome": "Chifre de Gondor",
+      "peso": 1.8,
+      "utilidade": 17
+    },
+    {
+      "nome": "Mapa de Rivendell",
+      "peso": 0.1,
+      "utilidade": 9
+    },
+    {
+      "nome": "Cantil de Água Fresca",
+      "peso": 1.0,
+      "utilidade": 6
+    }
+  ]
+}
