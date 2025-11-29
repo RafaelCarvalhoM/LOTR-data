@@ -1,0 +1,165 @@
+{
+  "conflitos": [
+    {
+      "nome": "Forja dos Anéis de Poder",
+      "era": "Segunda Era",
+      "ano_inicio": "1500",
+      "ano_fim": "1590",
+      "descricao": "Elfos em Eregion (liderados por Celebrimbor) forjam os Dezenove Anéis de Poder sob a influência de Sauron/Annatar."
+    },
+    {
+      "nome": "Forja do Um Anel",
+      "era": "Segunda Era",
+      "ano_inicio": "1600",
+      "ano_fim": "1600",
+      "descricao": "Sauron forja o Um Anel na Montanha da Perdição para dominar os outros Anéis."
+    },
+    {
+      "nome": "Guerra dos Elfos e Sauron",
+      "era": "Segunda Era",
+      "ano_inicio": "1693",
+      "ano_fim": "1700",
+      "descricao": "Guerra destrutiva iniciada por Sauron em resposta à descoberta do Um Anel pelos Elfos. Culmina na destruição de Eregion."
+    },
+    {
+      "nome": "Primeira Aparição dos Nazgûl",
+      "era": "Segunda Era",
+      "ano_inicio": "2251",
+      "ano_fim": "2251",
+      "descricao": "Os Nove Reis dos Homens corrompidos pelos Anéis que lhes foram dados se tornam os Espectros do Anel."
+    },
+    {
+      "nome": "Akalabêth (A Queda de Númenor)",
+      "era": "Segunda Era",
+      "ano_inicio": "3319",
+      "ano_fim": "3319",
+      "descricao": "A ilha de Númenor é destruída. Os Fiéis (liderados por Elendil) escapam."
+    },
+    {
+      "nome": "Guerra da Última Aliança (Primeira Derrota de Sauron)",
+      "era": "Segunda Era",
+      "ano_inicio": "3429",
+      "ano_fim": "3441",
+      "descricao": "Exércitos de Elfos e Dúnedain cercam Mordor e derrotam Sauron no Monte do Destino."
+    },
+    {
+      "nome": "O Desastre dos Campos de Íris e Perda do Anel",
+      "era": "Terceira Era",
+      "ano_inicio": "2",
+      "ano_fim": "2",
+      "descricao": "Isildur é morto por Orcs e o Um Anel é perdido no Rio Anduin."
+    },
+    {
+      "nome": "A Construção de Dol Guldur",
+      "era": "Terceira Era",
+      "ano_inicio": "1000",
+      "ano_fim": "1000",
+      "descricao": "Sauron se estabelece na floresta de Greenwood, sob a identidade do Necromante."
+    },
+    {
+      "nome": "A Grande Peste",
+      "era": "Terceira Era",
+      "ano_inicio": "1636",
+      "ano_fim": "1637",
+      "descricao": "Praga devastadora que reduz a população de Gondor, Arnor e do Condado."
+    },
+    {
+      "nome": "Guerra de Angmar e Arnor",
+      "era": "Terceira Era",
+      "ano_inicio": "1300",
+      "ano_fim": "1975",
+      "descricao": "Série de guerras que culmina na destruição do Reino do Norte (Arnor) pelo Rei Bruxo de Angmar."
+    },
+    {
+      "nome": "Queda de Fornost",
+      "era": "Terceira Era",
+      "ano_inicio": "1974",
+      "ano_fim": "1974",
+      "descricao": "A capital de Arthedain (último reino de Arnor) é tomada pelo Rei Bruxo."
+    },
+    {
+      "nome": "Despertar do Balrog (A Ruína de Durin)",
+      "era": "Terceira Era",
+      "ano_inicio": "1980",
+      "ano_fim": "1980",
+      "descricao": "Anões de Khazad-dûm (Moria) escavam muito fundo e despertam o Balrog."
+    },
+    {
+      "nome": "Guerra Civil de Gondor (Kin-strife)",
+      "era": "Terceira Era",
+      "ano_inicio": "1432",
+      "ano_fim": "1447",
+      "descricao": "Guerra entre Gondorianos, divididos entre o Rei e o usurpador Castamir, causando grande derramamento de sangue."
+    },
+    {
+      "nome": "O Concílio Branco em Mirkwood",
+      "era": "Terceira Era",
+      "ano_inicio": "2941",
+      "ano_fim": "2941",
+      "descricao": "O Concílio Branco expulsa Sauron de Dol Guldur."
+    },
+    {
+      "nome": "Batalha dos Cinco Exércitos",
+      "era": "Terceira Era",
+      "ano_inicio": "2941",
+      "ano_fim": "2941",
+      "descricao": "Conflito entre Anões, Homens e Elfos contra Orcs e Wargs, após a morte de Smaug."
+    },
+    {
+      "nome": "Primeiros Sinais da Guerra do Anel",
+      "era": "Terceira Era",
+      "ano_inicio": "3018",
+      "ano_fim": "3019",
+      "descricao": "O Um Anel é identificado. Sauron ataca Osgiliath e os Nazgûl são enviados para procurar o Anel."
+    },
+    {
+      "nome": "Batalha de Amon Hen",
+      "era": "Terceira Era",
+      "ano_inicio": "3019",
+      "ano_fim": "3019",
+      "descricao": "Dispersão da Sociedade do Anel; morte de Boromir e captura de Merry e Pippin."
+    },
+    {
+      "nome": "Batalha de Isengard (Queda de Saruman)",
+      "era": "Terceira Era",
+      "ano_inicio": "3019",
+      "ano_fim": "3019",
+      "descricao": "Os Ents marcham sobre Isengard, destruindo-a e aprisionando Saruman."
+    },
+    {
+      "nome": "Batalha do Abismo de Helm",
+      "era": "Terceira Era",
+      "ano_inicio": "3019",
+      "ano_fim": "3019",
+      "descricao": "Defesa bem-sucedida de Rohan contra os Uruk-hai de Saruman."
+    },
+    {
+      "nome": "Batalha dos Campos de Pelennor",
+      "era": "Terceira Era",
+      "ano_inicio": "3019",
+      "ano_fim": "3019",
+      "descricao": "Maior confronto em Gondor. Chegada de Rohan e a queda do Rei Bruxo."
+    },
+    {
+      "nome": "Batalha do Portão Negro (Morannon)",
+      "era": "Terceira Era",
+      "ano_inicio": "3019",
+      "ano_fim": "3019",
+      "descricao": "Última jogada para desviar a atenção de Sauron. Resulta na derrota final de Sauron."
+    },
+    {
+      "nome": "Limpeza do Condado",
+      "era": "Terceira Era",
+      "ano_inicio": "3019",
+      "ano_fim": "3019",
+      "descricao": "Os Hobbits (Frodo, Sam, Merry e Pippin) lideram a expulsão das forças de Saruman que haviam tomado o Condado."
+    },
+    {
+      "nome": "Início da Quarta Era",
+      "era": "Quarta Era",
+      "ano_inicio": "3021",
+      "ano_fim": "1",
+      "descricao": "A Terceira Era chega ao fim com a partida de Elfos e Portadores do Anel para Valinor, e começa a Era do Domínio dos Homens."
+    }
+  ]
+}
