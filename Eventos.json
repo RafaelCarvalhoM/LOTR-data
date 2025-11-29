@@ -1,7 +1,7 @@
 {
   "conflitos": [
     {
-      "chave_ordenacao": 101500,
+      "chave_ordenacao": 1015000,
       "nome": "Forja dos Anéis de Poder",
       "era": "Segunda Era",
       "ano_inicio": 1500,
@@ -9,7 +9,7 @@
       "descricao": "Elfos em Eregion (liderados por Celebrimbor) forjam os Anéis, com a influência de Sauron/Annatar. Os Três Anéis Élficos são forjados depois e escondidos."
     },
     {
-      "chave_ordenacao": 101600,
+      "chave_ordenacao": 1016000,
       "nome": "Forja do Um Anel e Fundação de Barad-dûr",
       "era": "Segunda Era",
       "ano_inicio": 1600,
@@ -17,7 +17,7 @@
       "descricao": "Sauron forja o Um Anel na Montanha da Perdição para dominar os outros Anéis e completa a construção de sua Torre Negra em Mordor."
     },
     {
-      "chave_ordenacao": 101693,
+      "chave_ordenacao": 1016930,
       "nome": "Guerra dos Elfos e Sauron (Destruição de Eregion)",
       "era": "Segunda Era",
       "ano_inicio": 1693,
@@ -25,7 +25,7 @@
       "descricao": "Sauron ataca Eregion. Os Nove Anéis são capturados, mas os Três Anéis Élficos são salvos."
     },
     {
-      "chave_ordenacao": 102251,
+      "chave_ordenacao": 1022510,
       "nome": "Primeira Aparição dos Nazgûl",
       "era": "Segunda Era",
       "ano_inicio": 2251,
@@ -33,7 +33,7 @@
       "descricao": "Os Nove Reis dos Homens sucumbem totalmente ao poder de seus Anéis e se tornam os imortais e temidos Espectros do Anel."
     },
     {
-      "chave_ordenacao": 103319,
+      "chave_ordenacao": 1033190,
       "nome": "Akalabêth (A Queda de Númenor)",
       "era": "Segunda Era",
       "ano_inicio": 3319,
@@ -41,7 +41,7 @@
       "descricao": "A ilha de Númenor é destruída por Ilúvatar, e o mundo é remodelado. Os Fiéis, liderados por Elendil, escapam para a Terra-média."
     },
     {
-      "chave_ordenacao": 103429,
+      "chave_ordenacao": 1034290,
       "nome": "Guerra da Última Aliança (Primeira Derrota de Sauron)",
       "era": "Segunda Era",
       "ano_inicio": 3429,
@@ -49,7 +49,7 @@
       "descricao": "Exércitos unidos de Elfos (liderados por Gil-galad) e Homens (liderados por Elendil) derrotam Sauron, mas o Um Anel é perdido no Rio Anduin por Isildur."
     },
     {
-      "chave_ordenacao": 200002,
+      "chave_ordenacao": 2000020,
       "nome": "O Desastre dos Campos de Íris e Perda do Anel",
       "era": "Terceira Era",
       "ano_inicio": 2,
@@ -57,7 +57,7 @@
       "descricao": "Isildur é emboscado e morto por Orcs e o Um Anel escorrega de seu dedo, sendo perdido no Rio Anduin por quase 2500 anos."
     },
     {
-      "chave_ordenacao": 201000,
+      "chave_ordenacao": 2010000,
       "nome": "A Construção de Dol Guldur",
       "era": "Terceira Era",
       "ano_inicio": 1000,
@@ -65,7 +65,7 @@
       "descricao": "Sauron se estabelece na floresta de Greenwood, sob a identidade do Necromante, marcando o início da longa vigília dos Istari (Magos)."
     },
     {
-      "chave_ordenacao": 201300,
+      "chave_ordenacao": 2013000,
       "nome": "Ataque do Rei Bruxo de Angmar ao Norte",
       "era": "Terceira Era",
       "ano_inicio": 1300,
@@ -73,7 +73,7 @@
       "descricao": "O Rei Bruxo (chefe dos Nazgûl) estabelece seu domínio em Angmar e inicia a guerra contra os reinos Dúnedain de Arnor."
     },
     {
-      "chave_ordenacao": 201432,
+      "chave_ordenacao": 2014320,
       "nome": "Guerra Civil de Gondor (Kin-strife)",
       "era": "Terceira Era",
       "ano_inicio": 1432,
@@ -81,7 +81,7 @@
       "descricao": "Guerra interna em Gondor entre a realeza e o usurpador Castamir, causando o enfraquecimento do reino."
     },
     {
-      "chave_ordenacao": 201636,
+      "chave_ordenacao": 2016360,
       "nome": "A Grande Peste",
       "era": "Terceira Era",
       "ano_inicio": 1636,
@@ -89,7 +89,7 @@
       "descricao": "Praga devastadora que dizima populações em Gondor, Arnor e no Condado, acelerando o declínio do Norte e do Sul."
     },
     {
-      "chave_ordenacao": 201974,
+      "chave_ordenacao": 2019740,
       "nome": "Queda de Fornost e Fim de Arnor",
       "era": "Terceira Era",
       "ano_inicio": 1974,
@@ -97,7 +97,7 @@
       "descricao": "A capital de Arthedain (último reino de Arnor) é tomada. O reino é destruído, mas o Rei Bruxo é derrotado logo em seguida por uma força combinada de Elfos e Gondorianos."
     },
     {
-      "chave_ordenacao": 201980,
+      "chave_ordenacao": 2019800,
       "nome": "Despertar do Balrog (A Ruína de Durin)",
       "era": "Terceira Era",
       "ano_inicio": 1980,
@@ -105,7 +105,7 @@
       "descricao": "Anões de Khazad-dûm (Moria) escavam muito fundo em busca de Mitril e despertam o Balrog, forçando o êxodo dos Anões."
     },
     {
-      "chave_ordenacao": 202050,
+      "chave_ordenacao": 2020500,
       "nome": "Início da Linhagem dos Regentes de Gondor",
       "era": "Terceira Era",
       "ano_inicio": 2050,
@@ -113,7 +113,7 @@
       "descricao": "Com o desaparecimento do último Rei, o Regente inicia seu governo em Gondor, que durará até a Guerra do Anel."
     },
     {
-      "chave_ordenacao": 202510,
+      "chave_ordenacao": 2025100,
       "nome": "Fundação de Rohan e Batalha de Celebrant",
       "era": "Terceira Era",
       "ano_inicio": 2510,
@@ -121,7 +121,7 @@
       "descricao": "Eorl o Jovem salva Gondor dos Balchoth, e em gratidão recebe a província de Calenardhon, fundando o Reino de Rohan."
     },
     {
-      "chave_ordenacao": 202770,
+      "chave_ordenacao": 2027700,
       "nome": "Ataque de Smaug (Saque de Erebor)",
       "era": "Terceira Era",
       "ano_inicio": 2770,
@@ -129,7 +129,7 @@
       "descricao": "O Dragão Smaug saqueia a Montanha Solitária, tomando os tesouros dos Anões e forçando-os ao exílio."
     },
     {
-      "chave_ordenacao": 202845,
+      "chave_ordenacao": 2028450,
       "nome": "A Longa Paz (The Long Vigil)",
       "era": "Terceira Era",
       "ano_inicio": 2845,
@@ -137,7 +137,7 @@
       "descricao": "Período de relativa calmaria e o último antes da escalada da Guerra do Anel."
     },
     {
-      "chave_ordenacao": 202941,
+      "chave_ordenacao": 2029410,
       "nome": "O Concílio Branco e Batalha dos Cinco Exércitos",
       "era": "Terceira Era",
       "ano_inicio": 2941,
@@ -145,7 +145,7 @@
       "descricao": "O Concílio expulsa Sauron de Dol Guldur. Mais tarde, Anões, Homens, Elfos, Orcs e Wargs lutam pela posse do tesouro de Smaug (eventos de O Hobbit)."
     },
     {
-      "chave_ordenacao": 202951,
+      "chave_ordenacao": 2029510,
       "nome": "O Retorno Público de Sauron",
       "era": "Terceira Era",
       "ano_inicio": 2951,
@@ -153,7 +153,7 @@
       "descricao": "Sauron se declara abertamente em Mordor e começa a reunir suas forças e reconstruir Barad-dûr, preparando-se para a guerra final."
     },
     {
-      "chave_ordenacao": 203018,
+      "chave_ordenacao": 2030180,
       "nome": "Início da Guerra do Anel (Ataques a Osgiliath)",
       "era": "Terceira Era",
       "ano_inicio": 3018,
